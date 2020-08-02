@@ -7,9 +7,9 @@ The purpose of this analysis is to provide client Louise with an overview and in
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Theater_Outcomes_vs_Launch.png
+![image](https://github.com/myljacobo/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-Outcomes vs Goals.png
+![image](https://github.com/myljacobo/kickstarter-analysis/blob/master/resources/Outcomes%20vs%20Goals.png)
 ### Challenges and Difficulties Encountered
 When working on Deliverable 1, I made the mistake of dragging down the field name launched_at to the Rows category and the numbers presented were not useful at all in making the table functional. I began to assume that I would have to convert the Unix time to a short date, but then realized we had previously done so and then inserted the Date Created Converstion field name to the Rows category. After this, I was able to group the Row Labels by month only as instructed. 
 
